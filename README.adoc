@@ -1,0 +1,21 @@
+= Building Reactive Pipelines with Kotlin & Spring
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.org[mark@thehecklers.org]
+* https://twitter.com/mkheck[@mkheck on Twitter]
+
+== Purpose
+
+This meta-repo accompanies my session titled "Building Reactive Pipelines with Kotlin & Spring" and points to repos containing code written within the session.
+
+== Individual repositories
+
+* https://github.com/mkheck/brp-source-kotlin[Project repo for Source/Supplier service]
+* https://github.com/mkheck/brp-processor-kotlin[Project repo for Processor/Function service]
+* https://github.com/mkheck/brp-sink-kotlin[Project repo for Sink/Consumer service]
+
+== Related presentation
+
+https://speakerdeck.com/mkheck/building-reactive-pipelines-with-kotlin-and-spring-how-to-go-from-scalable-apps-to-ridiculously-scalable-systems["Building Reactive Pipelines with Kotlin & Spring: How to go from scalable apps to (ridiculously) scalable systems" presentation]
